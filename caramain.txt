@@ -1,0 +1,31 @@
+
+     CCCCC   AAAAAA   RRRRRR   AAAAAA   MMM  MMM   AAAAAA  III  NNNN   NN
+     CCCCC   A    A   R  RRR   A    A   MMM  MMM   A    A  III  NNNN   NN
+     CC      AAAAAA   RRRR     AAAAAA   MMMMMMMM   AAAAAA  III  NN NN  NN
+     CC      AAAAAA   R RRR    AAAAAA   M MMMM M   AAAAAA  III  NN  NN NN
+     CCCCC   A    A   R  RRR   A    A   M  MM  M   A    A  III  NN   NNNN
+     CCCCC   A    A   R   RR   A    A   A  MM  M   A    A  III  NN    NNN
+_____________________________________________________________________________
+
+1. Player dibagi 4 kartu secara acak.
+
+2. Untuk langkah pertama, Player mendapat satu kartu dari dek (cangkulan).
+
+3. Kemudian player diharuskan untuk memilih satu kartu untuk 
+   dibuang ke buangan player selanjutnya.
+
+4. Jika buangan player telah terisi, maka player diharuskan 
+   memilih antara mengambil satu kartu dari buangan atau dari dek.
+
+5. Jika sudah mengambil player diharuskan lagi untuk memilih satu kartu 
+   yang dibuang ke buangan player selanjutnya.
+
+6. Poin ke 4 dan ke 5 dilakukan secara berulang sampai dek habis atau 
+   ditemukannya pemenang.
+
+7. Pemenang didapatkan ketika ada player yang memiliki kartu  Queen, King, As 
+   dan Jeck atau 10,dengan atribut yang sama.
+
+8. Jika sampai dek habis tidak ada yang mendapatkan kartu tersebut, 
+   maka pemenang diperoleh dari jumlah nilai kartu yang ada.
+
